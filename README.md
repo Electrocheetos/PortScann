@@ -6,6 +6,8 @@ Instalación y ejecución:
 
 ~$pip install python-nmap 
 
+~$git clone https://github.com/Electrocheetos/PortScann
+
 ~$cd PortScann
 
 ~$python3 PortScann.py
